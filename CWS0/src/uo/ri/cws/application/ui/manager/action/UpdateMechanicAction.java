@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import alb.util.console.Console;
 import alb.util.jdbc.Jdbc;
 import alb.util.menu.Action;
-import uo.ri.cws.application.BusinessException;
+import uo.ri.cws.application.business.BusinessException;
 
 public class UpdateMechanicAction implements Action {
 

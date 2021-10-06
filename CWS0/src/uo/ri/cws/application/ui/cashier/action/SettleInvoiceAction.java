@@ -1,7 +1,7 @@
 package uo.ri.cws.application.ui.cashier.action;
 
 import alb.util.menu.Action;
-import uo.ri.cws.application.BusinessException;
+import uo.ri.cws.application.business.BusinessException;
 
 public class SettleInvoiceAction implements Action {
 

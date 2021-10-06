@@ -1,4 +1,4 @@
-package uo.ri.cws.application;
+package uo.ri.cws.application.business;
 
 public class BusinessException extends Exception {
 	private static final long serialVersionUID = 1L;
