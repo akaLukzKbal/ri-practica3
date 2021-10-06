@@ -8,4 +8,5 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/AlbUtil"/>
 	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
 </classpath>
